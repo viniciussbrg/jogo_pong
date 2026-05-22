@@ -162,11 +162,11 @@
     <a name="circuit" val="main"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="4.0"/>
-    <comp lib="0" loc="(1000,610)" name="Constant">
+    <comp lib="0" loc="(1000,590)" name="Constant">
       <a name="value" val="0x17"/>
       <a name="width" val="5"/>
     </comp>
-    <comp lib="0" loc="(1000,630)" name="Constant">
+    <comp lib="0" loc="(1000,710)" name="Constant">
       <a name="value" val="0xb"/>
       <a name="width" val="5"/>
     </comp>
@@ -1971,10 +1971,6 @@
       <a name="label" val="BallX"/>
       <a name="width" val="8"/>
     </comp>
-    <comp lib="0" loc="(860,630)" name="Tunnel">
-      <a name="facing" val="east"/>
-      <a name="label" val="IsPaused"/>
-    </comp>
     <comp lib="0" loc="(910,530)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="BallY"/>
@@ -1984,6 +1980,16 @@
       <a name="out_width" val="6"/>
       <a name="type" val="zero"/>
     </comp>
+    <comp lib="0" loc="(920,710)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="label" val="IsPaused"/>
+    </comp>
+    <comp lib="0" loc="(960,350)" name="Tunnel">
+      <a name="label" val="PlayerBScores"/>
+    </comp>
+    <comp lib="0" loc="(960,390)" name="Tunnel">
+      <a name="label" val="PlayerAScores"/>
+    </comp>
     <comp lib="0" loc="(960,50)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="IsPaused"/>
@@ -1991,12 +1997,6 @@
     <comp lib="0" loc="(960,80)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="LockUpdates"/>
-    </comp>
-    <comp lib="0" loc="(970,350)" name="Tunnel">
-      <a name="label" val="PlayerAScores"/>
-    </comp>
-    <comp lib="0" loc="(970,390)" name="Tunnel">
-      <a name="label" val="PlayerBScores"/>
     </comp>
     <comp lib="0" loc="(980,550)" name="Bit Extender">
       <a name="out_width" val="5"/>
@@ -2021,7 +2021,7 @@
       <a name="label" val="PlayerAPaddleSize"/>
       <a name="width" val="5"/>
     </comp>
-    <comp lib="0" loc="(990,690)" name="Tunnel">
+    <comp lib="0" loc="(990,650)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="PlayerBPaddleSize"/>
       <a name="width" val="5"/>
@@ -2118,8 +2118,8 @@
     <wire from="(100,1180)" to="(400,1180)"/>
     <wire from="(100,660)" to="(100,1180)"/>
     <wire from="(100,660)" to="(370,660)"/>
-    <wire from="(1000,610)" to="(1020,610)"/>
-    <wire from="(1000,630)" to="(1020,630)"/>
+    <wire from="(1000,590)" to="(1020,590)"/>
+    <wire from="(1000,710)" to="(1020,710)"/>
     <wire from="(1010,490)" to="(1010,530)"/>
     <wire from="(1010,530)" to="(1020,530)"/>
     <wire from="(110,1220)" to="(400,1220)"/>
@@ -2318,31 +2318,31 @@
     <wire from="(670,400)" to="(710,400)"/>
     <wire from="(690,380)" to="(710,380)"/>
     <wire from="(700,420)" to="(710,420)"/>
-    <wire from="(770,650)" to="(1020,650)"/>
-    <wire from="(770,650)" to="(770,910)"/>
-    <wire from="(800,670)" to="(1020,670)"/>
-    <wire from="(800,670)" to="(800,720)"/>
+    <wire from="(770,610)" to="(1020,610)"/>
+    <wire from="(770,610)" to="(770,910)"/>
+    <wire from="(800,630)" to="(1020,630)"/>
+    <wire from="(800,630)" to="(800,720)"/>
     <wire from="(820,560)" to="(860,560)"/>
-    <wire from="(820,710)" to="(1020,710)"/>
-    <wire from="(820,710)" to="(820,1020)"/>
+    <wire from="(820,690)" to="(1020,690)"/>
+    <wire from="(820,690)" to="(820,1020)"/>
     <wire from="(860,560)" to="(860,580)"/>
     <wire from="(860,580)" to="(880,580)"/>
-    <wire from="(860,630)" to="(960,630)"/>
     <wire from="(910,530)" to="(920,530)"/>
     <wire from="(920,530)" to="(920,550)"/>
     <wire from="(920,550)" to="(940,550)"/>
     <wire from="(920,580)" to="(990,580)"/>
+    <wire from="(920,710)" to="(930,710)"/>
     <wire from="(930,340)" to="(940,340)"/>
-    <wire from="(930,360)" to="(960,360)"/>
+    <wire from="(930,360)" to="(950,360)"/>
     <wire from="(930,380)" to="(950,380)"/>
+    <wire from="(930,670)" to="(1020,670)"/>
+    <wire from="(930,670)" to="(930,710)"/>
     <wire from="(940,310)" to="(940,340)"/>
-    <wire from="(950,350)" to="(950,380)"/>
-    <wire from="(950,350)" to="(970,350)"/>
-    <wire from="(960,360)" to="(960,390)"/>
-    <wire from="(960,390)" to="(970,390)"/>
+    <wire from="(950,350)" to="(950,360)"/>
+    <wire from="(950,350)" to="(960,350)"/>
+    <wire from="(950,380)" to="(950,390)"/>
+    <wire from="(950,390)" to="(960,390)"/>
     <wire from="(960,50)" to="(980,50)"/>
-    <wire from="(960,590)" to="(1020,590)"/>
-    <wire from="(960,590)" to="(960,630)"/>
     <wire from="(960,80)" to="(980,80)"/>
     <wire from="(980,50)" to="(1350,50)"/>
     <wire from="(980,50)" to="(980,80)"/>
@@ -2353,7 +2353,7 @@
     <wire from="(990,490)" to="(1010,490)"/>
     <wire from="(990,570)" to="(1020,570)"/>
     <wire from="(990,570)" to="(990,580)"/>
-    <wire from="(990,690)" to="(1020,690)"/>
+    <wire from="(990,650)" to="(1020,650)"/>
   </circuit>
   <circuit name="ToDigit">
     <a name="appearance" val="logisim_evolution"/>
