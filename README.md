@@ -30,9 +30,13 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 
 ## Módulos do sistema ##
 
-* **ToDigit** :
+* **ToDigit** : Conversor de Números para Digitos
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/f31ec4cc-8aab-441e-9faa-5b6f72da18d6" />
+<img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/0d50d9bc-853d-408a-8451-1629d7ce6c57" />
 
 * **BCDConverter** :
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/8e2d603c-20ee-4f9b-9b46-1c3c8f01c3ee" />
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ebe65ee8-6862-47b1-a742-fd807fc3fe05" />
 
 * **PaddleHandler** :
 
@@ -41,7 +45,8 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 * **ComputerEnemyMovementHandler** :
 
 * **DisplayDriver** : Driver responsável para o output da maquina para o display 
-<img width="170" height="416" alt="image" src="https://github.com/user-attachments/assets/ce810589-0bf3-4fda-b618-32414b79a740" />
+<img width=13% height=13% alt="image" src="https://github.com/user-attachments/assets/ce810589-0bf3-4fda-b618-32414b79a740" />
+<img width="53%" height="53%" alt="image" src="https://github.com/user-attachments/assets/2cffa0b4-60f5-455b-90c8-65fb310accd6" />
 
 * **PaddleDisplayHandler** :
 
@@ -54,7 +59,9 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 * **CharacterDisplayHandler** :
 
 * **PlayerHandler** : Driver que maneja o controle do jogador
-<img width="168" height="340" alt="image" src="https://github.com/user-attachments/assets/fa25467c-f7d0-4d3a-b570-13901433910f" />
+<img width=13% height=13% alt="image" src="https://github.com/user-attachments/assets/fa25467c-f7d0-4d3a-b570-13901433910f" />
+<img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/3e08112a-cf69-45bf-a305-04aebfb0c792" />
+
 
 * **BallCollisionHandler** :
 
