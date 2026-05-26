@@ -11,3 +11,15 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 3. Rode o programa e vai em `Arquivo > Abrir` e carregue o arquivo **_pongtron_5001.circ_**
 
 ## Como Iniciar ##
+1. Va para `Simular` e habilite o pulso `Pulso Habilitado` e em `Simular > Frequência de Pulso` configure o pulso por volta de **32 - 16 Hz**
+
+2. Configure o tamanho da sua _"raquete"_ em **PlayerAPaddleSize** e **PlayerBPaddleSize** <img width="591" height="67" alt="Captura de tela 2026-05-26 100158" src="https://github.com/user-attachments/assets/1d92557d-19e8-4ed7-82ea-2f18ff9a2454" />
+
+3. Set qual player sera o bot ou não em **Player[X]IsComputer** e sua dificuldade em **Player[X]ComputerLevel** <img width="628" height="146" alt="image" src="https://github.com/user-attachments/assets/8fcbda67-eacc-44be-a4d3-f40d6f1af5c5" />
+
+4. Agora aperte no interruptor para iniciar 
+<img width="205" height="158" alt="image" src="https://github.com/user-attachments/assets/fa747e28-eec9-489d-a2a6-8dd6d81d4612" />
+
+5. Use isso para controlar a bola desejada 
+<img width="208" height="145" alt="image" src="https://github.com/user-attachments/assets/ac225250-b16a-4e65-9e14-8570a5b4a595" />
+
