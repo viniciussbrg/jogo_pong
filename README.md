@@ -13,8 +13,7 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 3. Rode o programa e vai em `Arquivo > Abrir` e carregue o arquivo **_pongtron_5001.circ_**
 
 ## Como Iniciar ##
-1. Va para `Simular` e habilite o pulso `Pulso Habilitado` e em `Simular > Frequência de Pulso` configure o pulso por volta de **32 - 16 Hz**
-
+1. Va para `Simular` e habilite o pulso `Pulso Habilitado` e em `Simular > Frequência de Pulso` configure o pulso por volta de **32 - 16 Hz** </br></br>
 2. Configure o tamanho da sua _"raquete"_ em **PlayerAPaddleSize** e **PlayerBPaddleSize** 
 </br>
 <img width="591" height="67" alt="Captura de tela 2026-05-26 100158" src="https://github.com/user-attachments/assets/1d92557d-19e8-4ed7-82ea-2f18ff9a2454" />
