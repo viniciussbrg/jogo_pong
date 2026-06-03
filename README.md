@@ -63,13 +63,19 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="64%" height="64%" alt="image" src="https://github.com/user-attachments/assets/7f073c3e-388b-476b-a6fb-f82656c5fd93" />
 
 * **ScoreDisplayHandler** :
+<img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/3cb77b7a-38a7-4d8a-bdca-add5ee66fd09" />
+<img width="66%" height="66%" alt="image" src="https://github.com/user-attachments/assets/04cb40eb-5545-4c66-b080-985686b46e85" />
 
 * **CharacterROM** :
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ba5502ca-06ff-4fe4-9559-fe588ef257ee" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ca58799f-07fa-4754-88ae-11888efd7ea0" />
 
 * **CharacterDisplayHandler** :
+<img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/42aa5070-5542-4a77-898b-88b040ad29d0" />
+<img width="65%" height="65%" alt="image" src="https://github.com/user-attachments/assets/d5e11498-ae45-4fb4-9f46-5d1a8fba625b" />
 
 * **PlayerHandler** : Driver que maneja o controle do jogador
-<img width=13% height=13% alt="image" src="https://github.com/user-attachments/assets/fa25467c-f7d0-4d3a-b570-13901433910f" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ed0eed3b-a952-42d9-a66e-61e6651e3729" />
 <img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/3e08112a-cf69-45bf-a305-04aebfb0c792" />
 
 
