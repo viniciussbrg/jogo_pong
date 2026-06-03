@@ -79,22 +79,22 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/3e08112a-cf69-45bf-a305-04aebfb0c792" />
 
 * **BallCollisionHandler** :
-<img width="472" height="315" alt="image" src="https://github.com/user-attachments/assets/d5634389-89c4-43ba-9701-910669169e8e" />
-<img width="1292" height="600" alt="image" src="https://github.com/user-attachments/assets/1675060e-8248-4293-96d1-781335eee49c" />
+<img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/d5634389-89c4-43ba-9701-910669169e8e" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/1675060e-8248-4293-96d1-781335eee49c" />
 
 * **ScoreHandler** :
 <img width="416" height="176" alt="image" src="https://github.com/user-attachments/assets/7f8b4bad-c7a7-4c25-a5c0-4bf007c20714" />
-<img width="1014" height="795" alt="image" src="https://github.com/user-attachments/assets/97209e1f-b747-4b69-8034-e52c2238ddab" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/97209e1f-b747-4b69-8034-e52c2238ddab" />
 
 * **BallStartDirectionHandler** :
-<img width="431" height="241" alt="image" src="https://github.com/user-attachments/assets/7c64486e-1e44-4cc7-95c1-6a73b6f4624b" />
-<img width="1269" height="485" alt="image" src="https://github.com/user-attachments/assets/8da3ca3c-dc02-48be-9065-4092d708aca3" />
+<img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/7c64486e-1e44-4cc7-95c1-6a73b6f4624b" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8da3ca3c-dc02-48be-9065-4092d708aca3" />
 
 * **PauseScreenHandler** :
-<img width="506" height="661" alt="image" src="https://github.com/user-attachments/assets/ea85c1eb-beec-4aeb-a3f7-11d79e34471b" />
-<img width="878" height="858" alt="image" src="https://github.com/user-attachments/assets/705d1d8f-1734-4c8f-9631-4d774342cc14" />
+<img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/ea85c1eb-beec-4aeb-a3f7-11d79e34471b" />
+<img width="44%" height="44%" alt="image" src="https://github.com/user-attachments/assets/705d1d8f-1734-4c8f-9631-4d774342cc14" />
 
 * **ToggleableCharacterHandler** :
-<img width="603" height="358" alt="image" src="https://github.com/user-attachments/assets/fba1e0f9-fc4f-4948-95dd-2d22f764a32f" />
-<img width="1332" height="391" alt="image" src="https://github.com/user-attachments/assets/1e785a6f-97a6-4c4a-bfe9-0008ab626816" />
+<img width="32%" height="32%" alt="image" src="https://github.com/user-attachments/assets/fba1e0f9-fc4f-4948-95dd-2d22f764a32f" />
+<img width="67%" height="67%" alt="image" src="https://github.com/user-attachments/assets/1e785a6f-97a6-4c4a-bfe9-0008ab626816" />
 
