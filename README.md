@@ -54,7 +54,7 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width=13% height=13% alt="image" src="https://github.com/user-attachments/assets/ce810589-0bf3-4fda-b618-32414b79a740" />
 <img width="53%" height="53%" alt="image" src="https://github.com/user-attachments/assets/2cffa0b4-60f5-455b-90c8-65fb310accd6" />
 
-* **PaddleDisplayHandler** : 
+* **PaddleDisplayHandler** : Modulo para mostrar a raquete no display
 <img width="33%" height="33%" alt="image" src="https://github.com/user-attachments/assets/f984a92f-a7ae-42b2-8062-33def7d33f7d" />
 <img width="43%" height="43%" alt="image" src="https://github.com/user-attachments/assets/9379f542-5249-4f85-8e00-b3557d5d2802" />
 
@@ -70,7 +70,7 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ba5502ca-06ff-4fe4-9559-fe588ef257ee" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ca58799f-07fa-4754-88ae-11888efd7ea0" />
 
-* **CharacterDisplayHandler** :
+* **CharacterDisplayHandler** : Modulo para mostrar o player no display
 <img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/42aa5070-5542-4a77-898b-88b040ad29d0" />
 <img width="65%" height="65%" alt="image" src="https://github.com/user-attachments/assets/d5e11498-ae45-4fb4-9f46-5d1a8fba625b" />
 
@@ -90,11 +90,11 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/7c64486e-1e44-4cc7-95c1-6a73b6f4624b" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8da3ca3c-dc02-48be-9065-4092d708aca3" />
 
-* **PauseScreenHandler** :
+* **PauseScreenHandler** : Usado para pausar o jogo
 <img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/ea85c1eb-beec-4aeb-a3f7-11d79e34471b" />
 <img width="44%" height="44%" alt="image" src="https://github.com/user-attachments/assets/705d1d8f-1734-4c8f-9631-4d774342cc14" />
 
-* **ToggleableCharacterHandler** :
+* **ToggleableCharacterHandler** : Toggle de personagem ou computador
 <img width="32%" height="32%" alt="image" src="https://github.com/user-attachments/assets/fba1e0f9-fc4f-4948-95dd-2d22f764a32f" />
 <img width="67%" height="67%" alt="image" src="https://github.com/user-attachments/assets/1e785a6f-97a6-4c4a-bfe9-0008ab626816" />
 
