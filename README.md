@@ -4,6 +4,8 @@ Trabalho de ARQUITETURA DE COMPUTADORES onde se deve recriar um jogo de Pong no 
 
 A versão utilizada para o desenvolvimento foi o Logisim Evolution
 
+<img width="1497" height="838" alt="WhatsApp Image 2026-06-03 at 17 01 36" src="https://github.com/user-attachments/assets/37fa298d-2449-4d85-bedc-decf8c6a628d" />
+
 ## Instalação ##
 
 1. Abaixe o arquivo zip do repositorio ( **<> Code** ) e extrai o arquivo para a sua pasta desejada. 
