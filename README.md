@@ -34,7 +34,7 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/f31ec4cc-8aab-441e-9faa-5b6f72da18d6" />
 <img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/0d50d9bc-853d-408a-8451-1629d7ce6c57" />
 
-* **BCDConverter** :
+* **BCDConverter** : BCD converte um número para sua representação em Binary-Coded Decimal e retorna cada dígito individualmente
 <img width="336" height="225" alt="image" src="https://github.com/user-attachments/assets/980b3adf-c4ce-45b4-9b70-530549195543" />
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ebe65ee8-6862-47b1-a742-fd807fc3fe05" />
 
