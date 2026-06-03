@@ -35,12 +35,16 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/0d50d9bc-853d-408a-8451-1629d7ce6c57" />
 
 * **BCDConverter** :
-<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/8e2d603c-20ee-4f9b-9b46-1c3c8f01c3ee" />
+<img width="336" height="225" alt="image" src="https://github.com/user-attachments/assets/980b3adf-c4ce-45b4-9b70-530549195543" />
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ebe65ee8-6862-47b1-a742-fd807fc3fe05" />
 
 * **PaddleHandler** :
+<img width="37%" height="37%" alt="image" src="https://github.com/user-attachments/assets/871f8bca-4ae8-4b3f-9833-a2b21317f1a3" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ee2c969d-8a57-424d-90ab-2ff397f75efb" />
 
 * **BallHandler** :
+<img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/68548c57-64a3-4692-b7f1-c62087499f4f" />
+<img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/078649fd-7cf8-4337-a519-af969539ab0d" />
 
 * **ComputerEnemyMovementHandler** :
 
