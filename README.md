@@ -38,15 +38,15 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="336" height="225" alt="image" src="https://github.com/user-attachments/assets/980b3adf-c4ce-45b4-9b70-530549195543" />
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ebe65ee8-6862-47b1-a742-fd807fc3fe05" />
 
-* **PaddleHandler** :
+* **PaddleHandler** : Modulo para calcular as propriedades da raquete
 <img width="37%" height="37%" alt="image" src="https://github.com/user-attachments/assets/871f8bca-4ae8-4b3f-9833-a2b21317f1a3" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ee2c969d-8a57-424d-90ab-2ff397f75efb" />
 
-* **BallHandler** :
+* **BallHandler** : Modulo para calcular a posição da bola
 <img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/68548c57-64a3-4692-b7f1-c62087499f4f" />
 <img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/078649fd-7cf8-4337-a519-af969539ab0d" />
 
-* **ComputerEnemyMovementHandler** :
+* **ComputerEnemyMovementHandler** : Driver da IA do computador
 <img width="33%" height="33%" alt="image" src="https://github.com/user-attachments/assets/7881134c-e11f-4482-bc47-067dd40c5730" />
 <img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/d42901d7-df95-498f-93f6-53775715dec7" />
 
@@ -54,15 +54,15 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width=13% height=13% alt="image" src="https://github.com/user-attachments/assets/ce810589-0bf3-4fda-b618-32414b79a740" />
 <img width="53%" height="53%" alt="image" src="https://github.com/user-attachments/assets/2cffa0b4-60f5-455b-90c8-65fb310accd6" />
 
-* **PaddleDisplayHandler** :
+* **PaddleDisplayHandler** : 
 <img width="33%" height="33%" alt="image" src="https://github.com/user-attachments/assets/f984a92f-a7ae-42b2-8062-33def7d33f7d" />
 <img width="43%" height="43%" alt="image" src="https://github.com/user-attachments/assets/9379f542-5249-4f85-8e00-b3557d5d2802" />
 
-* **BallDisplayHandler** :
+* **BallDisplayHandler** : Modulo para mostrar a bola no display
 <img width="13%" height="13%" alt="image" src="https://github.com/user-attachments/assets/5b39f77d-4819-42dc-89b8-ea9f1adb0dbc" />
 <img width="64%" height="64%" alt="image" src="https://github.com/user-attachments/assets/7f073c3e-388b-476b-a6fb-f82656c5fd93" />
 
-* **ScoreDisplayHandler** :
+* **ScoreDisplayHandler** : Modulo para mostrar a pontuação no display
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/3cb77b7a-38a7-4d8a-bdca-add5ee66fd09" />
 <img width="66%" height="66%" alt="image" src="https://github.com/user-attachments/assets/04cb40eb-5545-4c66-b080-985686b46e85" />
 
@@ -78,15 +78,15 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="27%" height="27%" alt="image" src="https://github.com/user-attachments/assets/ed0eed3b-a952-42d9-a66e-61e6651e3729" />
 <img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/3e08112a-cf69-45bf-a305-04aebfb0c792" />
 
-* **BallCollisionHandler** :
+* **BallCollisionHandler** : Modulo da Colisão da bola
 <img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/d5634389-89c4-43ba-9701-910669169e8e" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/1675060e-8248-4293-96d1-781335eee49c" />
 
-* **ScoreHandler** :
+* **ScoreHandler** : Usado para Salvar e Calcular a Pontuação
 <img width="416" height="176" alt="image" src="https://github.com/user-attachments/assets/7f8b4bad-c7a7-4c25-a5c0-4bf007c20714" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/97209e1f-b747-4b69-8034-e52c2238ddab" />
 
-* **BallStartDirectionHandler** :
+* **BallStartDirectionHandler** : Modulo para posição de inicio da bola
 <img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/7c64486e-1e44-4cc7-95c1-6a73b6f4624b" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8da3ca3c-dc02-48be-9065-4092d708aca3" />
 
