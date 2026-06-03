@@ -47,14 +47,20 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="36%" height="36%" alt="image" src="https://github.com/user-attachments/assets/078649fd-7cf8-4337-a519-af969539ab0d" />
 
 * **ComputerEnemyMovementHandler** :
+<img width="33%" height="33%" alt="image" src="https://github.com/user-attachments/assets/7881134c-e11f-4482-bc47-067dd40c5730" />
+<img width="60%" height="60%" alt="image" src="https://github.com/user-attachments/assets/d42901d7-df95-498f-93f6-53775715dec7" />
 
 * **DisplayDriver** : Driver responsável para o output da maquina para o display 
 <img width=13% height=13% alt="image" src="https://github.com/user-attachments/assets/ce810589-0bf3-4fda-b618-32414b79a740" />
 <img width="53%" height="53%" alt="image" src="https://github.com/user-attachments/assets/2cffa0b4-60f5-455b-90c8-65fb310accd6" />
 
 * **PaddleDisplayHandler** :
+<img width="33%" height="33%" alt="image" src="https://github.com/user-attachments/assets/f984a92f-a7ae-42b2-8062-33def7d33f7d" />
+<img width="43%" height="43%" alt="image" src="https://github.com/user-attachments/assets/9379f542-5249-4f85-8e00-b3557d5d2802" />
 
 * **BallDisplayHandler** :
+<img width="13%" height="13%" alt="image" src="https://github.com/user-attachments/assets/5b39f77d-4819-42dc-89b8-ea9f1adb0dbc" />
+<img width="64%" height="64%" alt="image" src="https://github.com/user-attachments/assets/7f073c3e-388b-476b-a6fb-f82656c5fd93" />
 
 * **ScoreDisplayHandler** :
 
