@@ -1,5 +1,7 @@
 # PONGISIM #
 
+![PONGISIM](media/thumb.gif)
+
 Trabalho de ARQUITETURA DE COMPUTADORES onde se deve recriar um jogo de Pong no Logisim ou Logisim Evolution.
 
 A versão utilizada para o desenvolvimento foi o Logisim Evolution
