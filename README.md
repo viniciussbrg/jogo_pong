@@ -16,19 +16,24 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 1. Va para `Simular` e habilite o pulso `Pulso Habilitado` e em `Simular > Frequência de Pulso` configure o pulso por volta de **32 - 16 Hz**
 
 2. Configure o tamanho da sua _"raquete"_ em **PlayerAPaddleSize** e **PlayerBPaddleSize** 
+</br>
 <img width="591" height="67" alt="Captura de tela 2026-05-26 100158" src="https://github.com/user-attachments/assets/1d92557d-19e8-4ed7-82ea-2f18ff9a2454" />
 </br></br>
 3. Set qual player sera o bot ou não em **Player[X]IsComputer** e sua dificuldade em **Player[X]ComputerLevel** 
+</br>
 <img width="628" height="146" alt="image" src="https://github.com/user-attachments/assets/8fcbda67-eacc-44be-a4d3-f40d6f1af5c5" />
 </br></br>
 4. Agora aperte no interruptor para iniciar 
+</br>
 <img width="205" height="158" alt="image" src="https://github.com/user-attachments/assets/fa747e28-eec9-489d-a2a6-8dd6d81d4612" />
 </br></br>
 5. Use isso para controlar a paleta desejada 
+</br>
 <img width="208" height="145" alt="image" src="https://github.com/user-attachments/assets/ac225250-b16a-4e65-9e14-8570a5b4a595" />
 </br></br>
 6. Olhe para o led e se divirta (área marcada e sua pontuação)
-<img width="745" height="509" alt="image" src="https://github.com/user-attachments/assets/4e4fba5c-6a87-4f38-ba70-dff5bf37fb81" />
+</br>
+<img width="45%" height="45%" alt="image" src="https://github.com/user-attachments/assets/4e4fba5c-6a87-4f38-ba70-dff5bf37fb81" />
 
 ## Módulos do sistema ##
 
@@ -68,9 +73,9 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 <img width="20%" height="20%" alt="image" src="https://github.com/user-attachments/assets/3cb77b7a-38a7-4d8a-bdca-add5ee66fd09" />
 <img width="66%" height="66%" alt="image" src="https://github.com/user-attachments/assets/04cb40eb-5545-4c66-b080-985686b46e85" />
 
-* **CharacterROM** :
+* **CharacterROM** : Contém a fonte usada para os texto no pong
 <img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ba5502ca-06ff-4fe4-9559-fe588ef257ee" />
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/ca58799f-07fa-4754-88ae-11888efd7ea0" />
+<img width="30%" height="30%" alt="image" src="https://github.com/user-attachments/assets/ca58799f-07fa-4754-88ae-11888efd7ea0" />
 
 * **CharacterDisplayHandler** : Modulo para mostrar o player no display
 <img width="25%" height="25%" alt="image" src="https://github.com/user-attachments/assets/42aa5070-5542-4a77-898b-88b040ad29d0" />
@@ -86,15 +91,15 @@ A versão utilizada para o desenvolvimento foi o Logisim Evolution
 
 * **ScoreHandler** : Usado para Salvar e Calcular a Pontuação
 <img width="416" height="176" alt="image" src="https://github.com/user-attachments/assets/7f8b4bad-c7a7-4c25-a5c0-4bf007c20714" />
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/97209e1f-b747-4b69-8034-e52c2238ddab" />
+<img width="35%" height="35%" alt="image" src="https://github.com/user-attachments/assets/97209e1f-b747-4b69-8034-e52c2238ddab" />
 
 * **BallStartDirectionHandler** : Modulo para posição de inicio da bola
 <img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/7c64486e-1e44-4cc7-95c1-6a73b6f4624b" />
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8da3ca3c-dc02-48be-9065-4092d708aca3" />
 
 * **PauseScreenHandler** : Usado para pausar o jogo
-<img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/ea85c1eb-beec-4aeb-a3f7-11d79e34471b" />
-<img width="44%" height="44%" alt="image" src="https://github.com/user-attachments/assets/705d1d8f-1734-4c8f-9631-4d774342cc14" />
+<img width="24%" height="24%" alt="image" src="https://github.com/user-attachments/assets/ea85c1eb-beec-4aeb-a3f7-11d79e34471b" />
+<img width="34%" height="34%" alt="image" src="https://github.com/user-attachments/assets/705d1d8f-1734-4c8f-9631-4d774342cc14" />
 
 * **ToggleableCharacterHandler** : Toggle de personagem ou computador
 <img width="32%" height="32%" alt="image" src="https://github.com/user-attachments/assets/fba1e0f9-fc4f-4948-95dd-2d22f764a32f" />
